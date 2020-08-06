@@ -1,0 +1,76 @@
+body {
+    background-color: aqua;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+    font-weight: bolder;
+    font-family: 'Chango', cursive;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Chango', cursive;
+}
+
+h4 {
+    
+}
+
+
+ul {
+    list-style: none;
+}
+li {
+    padding: 5px;
+    margin-right: 10px;
+}
+
+.orderedContainer {
+    width: 285px;
+    height: fit-content;
+    background-color: bisque;
+    float: left;
+    clear: left;
+    margin-left: 475px;
+    padding: 10px;
+}
+
+.devouredContainer {
+    width: 285px;
+    height: fit-content;
+    background-color: bisque;
+    float: right;
+    clear: right;
+    margin-right: 450px;
+    padding: 10px;
+}
+
+.orderBurger {
+    width: 400px;
+    height: fit-content;
+    background-color: bisque;
+    float: left;
+    margin-left: 40px;
+    padding: 10px;
+}
+
+.change-devour {
+    border-radius: 12px;
+    background-color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    padding: 5px;
+    margin-left: 30px;
+}
+
+.submitBtn {
+    border-radius: 8px;
+    margin-left: 130px;
+    padding: 5px;
+    background-color: blue;
+    color: white;
+}
