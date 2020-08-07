@@ -19,7 +19,7 @@
 
   ## Installation
 
-  No installation is necessary, as the application is successfully deployed at:
+  No installation is necessary, as the application is successfully deployed at: https://lit-cliffs-28895.herokuapp.com/
 
   ## Usage
 
